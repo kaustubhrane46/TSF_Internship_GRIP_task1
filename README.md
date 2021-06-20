@@ -7,7 +7,8 @@ Introduction to the Project:
 
 The Website is equipped with features like:
 
-•	Transferring Money from one Customer's Account to another, with automatic updating of Current Balances of both customers in Database.
+•	Transferring Money from one Customer's Account to another,
+with automatic updating of Current Balances of both customers in Database.
 •	View all the Customers Records.
 •	View all Transaction History.
 
